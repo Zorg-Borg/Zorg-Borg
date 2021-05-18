@@ -18,3 +18,10 @@
 - I just got into crypto bots and would love some help understanding it
 - I have had some experiance with AI of course not a lot 
 
+## Projects (WIP):
+- open source videogame
+- pridet videogame 
+- AI preditction for crypto currency
+- C++ coding class
+- discord game bot
+
