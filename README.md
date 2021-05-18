@@ -5,7 +5,7 @@
 - and a whole bunch more 
 
 ## I code in:
-* = the frequency of use
+- * = the frequency of use
 - python **
 - JavaScript *
 - c++ ****
