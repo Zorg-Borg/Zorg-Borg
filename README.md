@@ -5,10 +5,11 @@
 - and a whole bunch more 
 
 ## I code in:
-- python 
+- = frequency of use 
+- - python 
 - JavaScript
-- c++
-- [haxe] (https://haxe.org/)
+- - - - c++
+- - - [haxe] (https://haxe.org/)
 - more too come 
 
 ## Other cool facts about me
