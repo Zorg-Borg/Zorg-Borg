@@ -22,6 +22,4 @@
 - open source videogame
 - pridet videogame 
 - AI preditction for crypto currency
-- C++ coding class
 - discord game bot
-- Waiting Room
