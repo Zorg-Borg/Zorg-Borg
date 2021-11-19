@@ -1,7 +1,3 @@
-## I am a:
-- novice programer
-- student 
-- 
 ## I code in:
 - python 
 - JavaScript 
